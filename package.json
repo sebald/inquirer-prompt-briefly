@@ -1,0 +1,36 @@
+{
+  "name": "inquirer-prompt-briefly",
+  "version": "2.0.1",
+  "description": "Use your text editor as prompt input.",
+  "license": "MIT",
+  "author": "Sebastian Sebald (https://github.com/sebald)",
+  "repository": "inquirer-prompt-briefly",
+  "keywords": [
+    "cli",
+    "command",
+    "editor",
+    "input",
+    "inquirer",
+    "prompt",
+    "prompts",
+    "readline",
+    "terminal"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "edit-briefly": "1.0.0"
+  },
+  "peerDependencies": {
+    "inquirer": "6.2.2"
+  },
+  "scripts": {
+    "example": "node example/prompt"
+  },
+  "devDependencies": {
+    "@types/inquirer": "0.0.43",
+    "inquirer": "6.2.2"
+  }
+}
