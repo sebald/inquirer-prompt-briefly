@@ -1,5 +1,7 @@
 # inquirer-prompt-briefly
 
+[![version][version-badge]][package] [![MIT License][license-badge]][license]
+
 Alternative for `inquirer`'s `editor` prompt that supports file extensions.
 
 ## Install
@@ -35,3 +37,10 @@ inquirer
   .then(answers => console.log(answers))
   .catch(err => console.log(err));
 ```
+
+<!-- LINKS -->
+
+[license]: https://github.com/sebald/inquirer-prompt-briefly/blob/master/LICENSE
+[license-badge]: https://img.shields.io/npm/l/inquirer-prompt-briefly.svg?style=flat-square
+[package]: https://www.npmjs.com/package/inquirer-prompt-briefly
+[version-badge]: https://img.shields.io/npm/v/inquirer-prompt-briefly.svg?style=flat-square
