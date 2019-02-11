@@ -1,6 +1,6 @@
 {
   "name": "inquirer-prompt-briefly",
-  "version": "2.0.1",
+  "version": "0.0.1",
   "description": "Use your text editor as prompt input.",
   "license": "MIT",
   "author": "Sebastian Sebald (https://github.com/sebald)",
@@ -28,9 +28,12 @@
   },
   "devDependencies": {
     "@types/inquirer": "0.0.43",
+    "conventional-changelog-cli": "2.0.11",
+    "conventional-changelog-emojis": "3.0.1",
     "inquirer": "6.2.2"
   },
   "scripts": {
-    "example": "node example/prompt"
+    "example": "node example/prompt",
+    "version": "conventional-changelog -p emojis -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   }
 }
