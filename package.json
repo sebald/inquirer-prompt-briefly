@@ -24,13 +24,13 @@
     "edit-briefly": "1.0.0"
   },
   "peerDependencies": {
-    "inquirer": "6.2.2"
-  },
-  "scripts": {
-    "example": "node example/prompt"
+    "inquirer": "^6.2.2"
   },
   "devDependencies": {
     "@types/inquirer": "0.0.43",
     "inquirer": "6.2.2"
+  },
+  "scripts": {
+    "example": "node example/prompt"
   }
 }
