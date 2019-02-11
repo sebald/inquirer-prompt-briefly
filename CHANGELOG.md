@@ -1,4 +1,12 @@
-# 1.0.0 (2019-02-11)
+# [1.1.0](http://inquirer-prompt-briefly/compare/v1.0.0...v1.1.0) (2019-02-11)
+
+
+### Features
+
+- Add typings. ([2fded45](http://inquirer-prompt-briefly/commits/2fded45))
+
+
+[object Object]# [1.0.0](http://inquirer-prompt-briefly/compare/dd0565d...v1.0.0) (2019-02-11)
 
 
 ### Refactoring & Improvements
@@ -19,6 +27,7 @@
 ### Miscellaneous
 
 - Initial commit ([dd0565d](http://inquirer-prompt-briefly/commits/dd0565d))
+- V1.0.0 ([b5e48ed](http://inquirer-prompt-briefly/commits/b5e48ed))
 
 
 [object Object]
