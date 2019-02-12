@@ -473,10 +473,10 @@ dot-prop@^3.0.0:
   dependencies:
     is-obj "^1.0.0"
 
-edit-briefly@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/edit-briefly/-/edit-briefly-1.0.0.tgz#3726e9c718216ce0582f0709a663cb6c4e169b48"
-  integrity sha512-pH/SkNKda9qoxRKzntlHaATciL1auKcZjc7PrbVYY8bzPbyeQd2X7JMhI+G1CF3uYzO8F7AFIcmyenRccils1w==
+edit-briefly@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/edit-briefly/-/edit-briefly-2.1.0.tgz#5320c17cbbc77677f63abf7a16f8598074c5057b"
+  integrity sha512-6PLDHaDjKVm21d6aV1dvvdo5Sw7EER5O0UlznQBxqYGagdAiaTWOWwvZHnsgd9tjrBoZjUPfYJfZHAXeSRFAZA==
   dependencies:
     "@types/node" "10.12.21"
     tempy "0.2.1"

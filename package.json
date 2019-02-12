@@ -21,7 +21,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "edit-briefly": "1.0.0"
+    "edit-briefly": "2.1.0"
   },
   "peerDependencies": {
     "inquirer": "^6.2.2"

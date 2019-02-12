@@ -13,8 +13,7 @@ class BrieflyPrompt extends Editor {
     // Pause Readline to prevent stdin and stdout from being modified while the editor is showing
     this.rl.pause();
     try {
-      const contents = await edit({
-        contents: this.currentText,
+      const contents = await edit(this.currentText, {
         extension: this.opt.extension,
       });
       this.endExternalEditor(null, contents);
