@@ -1,9 +1,22 @@
-# [1.1.0](http://inquirer-prompt-briefly/compare/v1.0.0...v1.1.0) (2019-02-11)
+# [1.2.0](http://inquirer-prompt-briefly/compare/v1.1.0...v1.2.0) (2019-02-12)
+
+
+### Features
+
+- Use latest `edit-briefly` to support curor position ([c5fbcf4](http://inquirer-prompt-briefly/commits/c5fbcf4))
+
+
+[object Object]# [1.1.0](http://inquirer-prompt-briefly/compare/v1.0.0...v1.1.0) (2019-02-11)
 
 
 ### Features
 
 - Add typings. ([2fded45](http://inquirer-prompt-briefly/commits/2fded45))
+
+
+### Miscellaneous
+
+- V1.1.0 ([db37101](http://inquirer-prompt-briefly/commits/db37101))
 
 
 [object Object]# [1.0.0](http://inquirer-prompt-briefly/compare/dd0565d...v1.0.0) (2019-02-11)
