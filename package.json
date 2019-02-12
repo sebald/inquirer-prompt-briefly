@@ -1,6 +1,6 @@
 {
   "name": "inquirer-prompt-briefly",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Use your text editor as prompt input.",
   "license": "MIT",
   "author": "Sebastian Sebald (https://github.com/sebald)",
