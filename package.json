@@ -4,7 +4,7 @@
   "description": "Use your text editor as prompt input.",
   "license": "MIT",
   "author": "Sebastian Sebald (https://github.com/sebald)",
-  "repository": "inquirer-prompt-briefly",
+  "repository": "sebald/inquirer-prompt-briefly",
   "keywords": [
     "cli",
     "command",
